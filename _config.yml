@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Evan
+tagline:             'Software / Writing'
+description:         "This is the website of Evan Kozliner, software engineer and, sometimes, writer. I'm interested in technology and philosophy."
 url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Evan Kozliner
+  url:               https://twitter.com/evankozliner
+  email:             evankozliner@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
