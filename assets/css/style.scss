@@ -27,3 +27,17 @@ $link-color: #841212;
 
 @import "ed";
 @import "syntax";
+
+.contacts {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.contacts li {
+  list-style-type: none;
+  display: inline-block;
+  width: 100px;
+  padding: 20px;
+}
+
