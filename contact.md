@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-I'm easy to get a hold of
+I've met some really cool people who've found me online, and I'd love for that trend to continue. Please reach out, especially if you have feedback for a post. :)
 
 Best way to reach me is typically email:
 **evankozliner@gmail.com**
