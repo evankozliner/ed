@@ -27,7 +27,7 @@ After construction, a Merkle Tree looks something like this:
 
 The tree can be constructed by taking nodes at the same height, concatenating their values, and hashing the result until the root is reached.A special case needs handled when only one node remains before the tree is complete, but other than that the tree construction is somewhat straightforward (more on this in the implementation section).
 
-Once built, data can be audited using *only* the root hash in logarithmic time to the number of leaves (this is also known as a Merkle-Proof).Auditing works by recreating the branch containing the piece of data from the root to the piece of data being audited. In the example above,if we wanted to audit *c*(assuming we have the root hash)\_,\_we would need to be given H(d) and H(H(a) + H(b)).We would hash *c* to get H(c), then concatenate and hash H(c) with H(d), then concatenate and hash the result of that with H(H(a) + H(b)). If the result was the same string as the root hash, it would imply that *c* is truly a part of the data in the Merkle Tree.
+Once built, data can be audited using *only* the root hash in logarithmic time to the number of leaves (this is also known as a Merkle-Proof).Auditing works by recreating the branch containing the piece of data from the root to the piece of data being audited. In the example above,if we wanted to audit *c* (assuming we have the root hash), we would need to be given H(d) and H(H(a) + H(b)).We would hash *c* to get H(c), then concatenate and hash H(c) with H(d), then concatenate and hash the result of that with H(H(a) + H(b)). If the result was the same string as the root hash, it would imply that *c* is truly a part of the data in the Merkle Tree.
 
 In a case such as torrenting, another peer would provide the piece of data, *c*, H(d), and H(H(a) + H(b)). If you’re concerned about the security of this approach, recall that in a hash function it is computationally infeasible find some *e* such that H(e) = H(c). Thismeansthat so long as the root hash is correct, it would be difficult for adversaries to lie about the data they were providing.
 
@@ -35,7 +35,7 @@ Outputting the authentication path of some data is as simple as recreating the b
 
 # Selected Implementation Methods
 
-You can find a complete version of the code [here](https://github.com/evankozliner/merkle-tree). I’ll explain the bulk of the tree creation and auditing methods.Note that both the *build_tree_and* *audit* methods are instance methods from a larger class.
+You can find a complete version of the code [here](https://github.com/evankozliner/merkle-tree). I’ll explain the bulk of the tree creation and auditing methods.Note that both the *build_tree* and *audit* methods are instance methods from a larger class.
 
 ```python
 def build_tree(self):

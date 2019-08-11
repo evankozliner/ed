@@ -11,6 +11,7 @@ author: Evan Kozliner
 
 
 The [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) class on [Coursera](https://www.coursera.org/) provides a solid introduction to cryptocurrencies and the blockchain from a technical perspective; albeit with some caveats that I wanted to make the subject of this blog post. With that said, here are the things I would have liked to know before taking the class:
+
 **TLDR;**
 If you’re wondering if you should take the class I would say **yes**, but do it like this: Power through the first 3 weeks of material, doing only the first and third assignment (even though the third isn’t due until the 7th week), and watch only the topics that really interest you afterwards. A good follow up project might be to [build a Merkle Tree](https://medium.com/@rogue_whale/merkle-tree-introduction-4c44250e2da7).
 

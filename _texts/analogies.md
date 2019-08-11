@@ -47,7 +47,7 @@ The solution to the problem involves surrounding the patient with low-energy wav
 
 However, the study has a caveat: Students needed prodding to utilize the analogies. In another experiment, students were told to first memorize the same stories as well as two “distractor stories”. In addition, students were not explicitly told to use the stories as analogies. In this experiment, the percentage of students finding the correct answer drops considerably (to around 20%). Clearly, analogies are useful, but hoping that the analogies come to you spontaneously is wishful thinking.
 
-This might be why executives are so quick to look for analogies explicitly when making high-risk business decisions.[In a 2005 issue of Harvard Business Review](https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy), analogical problem solving is explored as a tool for corporate executes:
+This might be why executives are so quick to look for analogies explicitly when making high-risk business decisions. [In a 2005 issue of Harvard Business Review](https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy), analogical problem solving is explored as a tool for corporate executes:
 
 > “We’ve explained the notion of analogical reasoning to executives responsible for strategy in a variety of industries, and virtually every one of them, after reflecting, could point to times when he or she relied heavily on analogies.” — HBR
 
@@ -67,7 +67,7 @@ In logic textbooks, system A is often known as the primary analogy, and System B
 
 The key when analyzing these arguments is trying to find out if the properties our systems have in common (a and b) are relevant to the property trying to be inferred, d. If not, the similarities between our systems may just be superficial. This is why knowledge of the two domains in question is critical for applying the technique. There’s no good way to understand the complete causal chain between properties we observe in the real world, so having some broad knowledge of the domains is often the best we can do here (oncologists being aware of mouse anatomy, for instance).
 
-Notice the_may_qualifierin the above definition. No analogy is bulletproof, so it’s best to have multiple analogies to prove your point. This is practiced most frequently in law, where common law cases are frequently enumerated to make a point about how a case in question should be treated.
+Notice the "may" qualifierin the above definition. No analogy is bulletproof, so it’s best to have multiple analogies to prove your point. This is practiced most frequently in law, where common law cases are frequently enumerated to make a point about how a case in question should be treated.
 
 I’ve tried to boil down much of what’s discussed in logic textbooks to 3 categories of heuristics to pay attention to when making analogical arguments, and some associated questions you should consider for those categories:
 
