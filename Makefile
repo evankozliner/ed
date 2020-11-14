@@ -2,6 +2,9 @@
 BUCKET_NAME="evankozliner.com"
 STACK_NAME="PersonalWebsite"
 
+# TODO 
+# Install script that adds correct version of bundler, ruby, jekyll, tmux, aws cli, mediumexporter
+
 all:
 	make build
 	make build-prod
@@ -34,3 +37,10 @@ build-prod:
 serve: 
 	bundle exec jekyll build
 	bundle exec jekyll serve --livereload
+
+# Usage make post=https://towardsdatascience.com/aws-iam-introduction-20c1f017c43 pull
+#echo Creating file for $(post)
+	#touch _texts/$(post).md
+	#mediumexporter  $(post) --jekyll >> _texts/$(post).md
+pull:
+	ruby medium_converter.rb $(post)
