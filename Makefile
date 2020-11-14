@@ -26,11 +26,11 @@ destroy: empty-bucket
 	aws cloudformation delete-stack --stack-name $(STACK_NAME)
 
 build:
-	jekyll build
+	bundle exec jekyll build
 
 build-prod:
 	JEKYLL_ENV=production jekyll build
 
 serve: 
-	jekyll build
-	jekyll serve --livereload
+	bundle exec jekyll build
+	bundle exec jekyll serve --livereload
