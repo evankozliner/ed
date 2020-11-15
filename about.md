@@ -14,9 +14,9 @@ The writing isn't highly personal--I have a journal for that--regardless of the 
 If you have feedback for a post, please <a href="/contact/">contact me</a>.
 
 ## Work
-I'm a software engineer. Right now I'm working at Amazon Web Services on an IoT product called <a href="https://aws.amazon.com/greengrass/">Greengrass</a>. I'd describe the work I do here as mostly DevOps, or backend software engineering. I really enjoy it :)
+I'm a software engineer working at a startup called [Attentive](https://www.attentivemobile.com/). I'm on a data engineering team, working on bootstrapping our data pipelines and machine learning >:)
 
-In the past I've been a research assistant at a biomedical engineering lab out of Ohio State, and a freelance web developer. My experience is broad, ranging from machine learning to DevOps, to front end, and backend development. I've worked on and maintained a wide variety of projects at various scales; ranging from things like publicly facing AWS APIs with very high traffic and 24/7 on call, to mom-and-pop static websites and 1-off deep learning experiments.
+In the past, I've worked at Amazon Web Services on a product called [Greengrass](https://aws.amazon.com/greengrass/), I've been a research assistant at a biomedical engineering lab out of Ohio State, and a freelance web developer. My experience is broad, ranging from machine learning to DevOps, to front end, and backend development. I've worked on and maintained a wide variety of projects at various scales; ranging from things like publicly facing AWS APIs with very high traffic and 24/7 on call, to mom-and-pop static websites and 1-off deep learning experiments.
 
 You can see my resume <a href="/assets/resume.pdf">here</a> or see my past experience in full on my <a href="https://www.linkedin.com/in/evan-kozliner-40a42262">LinkedIn</a>.
 

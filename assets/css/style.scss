@@ -12,7 +12,7 @@ sitemap: false
 /* FONTS */
 $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 $heading-font: sans-serif;
-$regular-font-size: 18px;
+$regular-font-size: 22px;
 
 
 /*
@@ -55,4 +55,23 @@ figure {
 figcaption {
   font-size: .9rem;
   text-align: center;
+}
+
+.narrative > h1, .narrative > h2, .narrative > h3 {
+  border-bottom: 1px solid;
+}
+
+.narrative > h1 {
+  font-weight: 300;
+  font-size: 40px;
+}
+
+.narrative > h2 {
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.narrative > h3 {
+  font-weight: 300;
+  font-size: 25px;
 }

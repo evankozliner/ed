@@ -1,0 +1,25 @@
+ruby medium_converter.rb https://towardsdatascience.com/aws-iam-introduction-20c1f017c43 zVJnenaD3U8
+
+
+ruby medium_converter.rb https://medium.com/swlh/a-free-coding-curriculum-for-beginners-5f16c948e7b4  k1hHRMIod0A,nykOeWgQcHM,yTHTo28hwTQ,u1L0NpA6voI
+
+ruby medium_converter.rb https://evankozliner.medium.com/proving-determinism-a-thought-experiment-1fee090b7232 vGWGeund3eA,xP5-iIeKXE8
+
+ruby medium_converter.rb https://towardsdatascience.com/algorithmic-beauty-an-introduction-to-cellular-automata-f53179b3cf8f C2vgICfQawE
+
+ruby medium_converter.rb https://evankozliner.medium.com/why-spectacle-matters-dfc0ddad4104 
+
+ruby medium_converter.rb https://evankozliner.medium.com/a-primer-on-analogical-reasoning-b215f817d33d
+
+
+ruby medium_converter.rb https://evankozliner.medium.com/what-is-the-hard-problem-of-consciousness-e810b9a7a26e
+
+ruby medium_converter.rb https://medium.com/hackernoon/transfer-learning-in-the-cloud-for-the-isic-cancer-classification-challenge-e0898bffcc52
+
+ruby medium_converter.rb https://medium.com/hackernoon/machine-learning-for-isic-skin-cancer-classification-challenge-part-1-ccddea4ec44a
+
+ruby medium_converter.rb https://evankozliner.medium.com/bitcoin-and-cryptocurrency-technologies-on-coursera-review-9c1f88444c82
+
+ruby medium_converter.rb https://medium.com/hackernoon/merkle-tree-introduction-4c44250e2da7
+
+ruby medium_converter.rb https://towardsdatascience.com/how-to-copy-between-encrypted-s3-buckets-cross-account-e4e3096d1a8a
